@@ -2,7 +2,6 @@
 	"version": "1.0.1",
 	"name": "angular-query-builder",
 	"main": "./query-builder-directive.js",
-  "private": true,
 	"dependencies": {
 		"angular": "~1"
 	},
