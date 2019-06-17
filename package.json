@@ -13,6 +13,6 @@
 		"Pieter Kempenaers <pkempenaers@myforce.be>"
 	],
 	"scripts": {
-		"build": "mkdir -p dist && concat -o dist/query-builder.js query-builder-directive.js query-builder-controller"
+		"build": "mkdir -p dist && concat -o dist/query-builder.js query-builder-directive.js query-builder-controller.js"
 	}
 }
