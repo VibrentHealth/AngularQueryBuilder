@@ -7,7 +7,7 @@
 	},
 	"devDependencies": {
 	    "concat": "^1.0.3"
-	}
+	},
 	"description": "A angular directive to visually create queries",
 	"authors": [
 		"Pieter Kempenaers <pkempenaers@myforce.be>"
